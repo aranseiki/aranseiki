@@ -34,7 +34,7 @@
  
 ##
 
-### Caso tenha se interessado pelo meu perfil, fique à vontade de me acompanhar nas redes sociais:
+### Caso tenha se interessado pelo meu perfil, fique à vontade para me acompanhar nas redes sociais:
   
 <div align="center"> 
   <a href="https://instagram.com/aranseiki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

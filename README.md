@@ -23,17 +23,6 @@
 
 ##
 
-### A seguir, um pouco da minha interação no GitHub. Importante destacar que não necessariamente isso reflete de fato meu dia-a-dia, há muitas coisas que vejo offline e por isso não se encontra aqui, ou que ficam alocados em lugares diferentes. Mas segue uma base das minhas atividades: 
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aranseiki&theme=chartreuse-dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aranseiki&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
-  
-![Snake animation](https://github.com/aranseiki/aranseiki/blob/output/github-contribution-grid-snake.svg)
- 
-##
-
 ### Caso tenha se interessado pelo meu perfil, fique à vontade para me acompanhar nas redes sociais:
   
 <div align="center"> 
@@ -45,3 +34,7 @@
 </div>
   
 ##
+
+<br />
+
+### A seguir, um pouco da minha interação no GitHub. Importante destacar que não necessariamente isso reflete de fato meu dia-a-dia, há muitas coisas que vejo offline e por isso não se encontra aqui, ou que ficam alocados em lugares diferentes. Mas segue uma base das minhas atividades: 
